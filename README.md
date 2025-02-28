@@ -38,7 +38,8 @@
 ### 📊 GitHub Stats (Lifetime)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YAXH64&theme=radical&cache=${Math.random()})  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YAXH64&layout=compact&theme=radical&cache=${Math.random()})  
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YAXH64&theme=radical&cache=${Math.random()})  
+![YAXH64 Contributions in 2025](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YAXH64&theme=radical&year=2025)  
+
 
 ---
 
