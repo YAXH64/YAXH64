@@ -2,52 +2,50 @@
 
 🚀 **Aspiring Software Engineer | BTech CSE Student @ DBATU**  
 💻 **Passionate about Coding, Web Development, and Open Source**  
-📚 **Currently Learning:**  
-
-#### **💻 Programming Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
-#### **🌐 Web Development**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-
-#### **📂 Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-#### **🛠️ Tools & Technologies**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-
-🎯 **Working On:** Web Projects, Hackathons, and Open Source Contributions  
-⚡ **Fun Fact:** I love **Anime** (especially Attack on Titan) and **Football**  
+📚 **Currently Learning:** C, Python, JavaScript, and Frontend Development  
 
 ---
 
-### 📌 Featured Projects  
-🔹 **[Project 1: To-Do List](https://github.com/YAXH64/todo-app)** – A simple To-Do list using JavaScript.  
-🔹 **[Project 2: Weather App](https://github.com/YAXH64/weather-app)** – Fetches real-time weather data using APIs.  
-🔹 **[Project 3: Quiz App](https://github.com/YAXH64/quiz-app)** – An interactive quiz application.  
+### 🛠️ Tech Stack  
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" alt="TailwindCSS"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux"/></td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats (Lifetime)  
-![Yash's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=YAXH64&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YAXH64&layout=compact&theme=radical)  
-![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YAXH64&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YAXH64&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YAXH64&layout=compact&theme=radical)  
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YAXH64&theme=radical)  
 
 ---
 
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashyadav-dev)  
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YAXH64)  
+
 📫 **Email:** yashyadav1.dev@gmail.com  
 
 ---
