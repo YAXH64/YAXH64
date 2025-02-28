@@ -19,7 +19,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" alt="TailwindCSS"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="50" alt="TailwindCSS"/></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/></td>
@@ -36,9 +36,9 @@
 ---
 
 ### 📊 GitHub Stats (Lifetime)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YAXH64&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YAXH64&layout=compact&theme=radical)  
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YAXH64&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YAXH64&theme=radical&cache=${Math.random()})  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YAXH64&layout=compact&theme=radical&cache=${Math.random()})  
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YAXH64&theme=radical&cache=${Math.random()})  
 
 ---
 
