@@ -1,18 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0c29,50:302b63,100:24243e&text=%20&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f0c29,50:302b63,100:24243e&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=YASH+YADAV" />
+<div align="center" style="margin-top:-115px;">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=YASH+YADAV" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=%3E_+console.log(%22Building+the+future...%22);" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=500&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+•+AI+Enthusiast+•+Open+Source+Contributor;React+%2B+Next.js+%2B+AI;Building+Futuristic+Web+Experiences;Always+learning%2C+always+building..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+•+AI+Enthusiast+•+Open+Source+Contributor;React+%2B+Next.js+%2B+AI;Building+Futuristic+Web+Experiences" />
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=YAXH64&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
+
+</div>
 
 </div>
 
@@ -71,27 +75,32 @@ Goal:
 <div align="center">
 
 <table width="100%">
+
 <tr>
 
-<td width="25%" align="center">
+<td width="50%" align="center">
 
 ### FRONTEND
 
+<br>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,vite" />
 
-</td>
-
-<td width="25%" align="center">
+<br><br>
 
 ### BACKEND
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,python,fastapi" />
 
 </td>
 
-<td width="25%" align="center">
+<td width="50%" align="center">
 
 ### AI / ML
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
@@ -99,17 +108,18 @@ Goal:
 
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-</td>
-
-<td width="25%" align="center">
+<br><br><br>
 
 ### TOOLS
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -126,12 +136,13 @@ Goal:
 
 ## 🧠 DeepSentry
 
-AI-powered deepfake detection system using Vision Transformers.
-
-### Stack
-`Python` `PyTorch` `FastAPI`
+AI-powered deepfake detection system.
 
 <br>
+
+`Python` `PyTorch` `FastAPI`
+
+<br><br>
 
 <a href="https://github.com/YAXH64/Deepsentry---Deepfake-Detector">
 <img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
@@ -143,12 +154,13 @@ AI-powered deepfake detection system using Vision Transformers.
 
 ## 🩸 BloodLink
 
-Real-time blood availability platform connecting donors and patients.
-
-### Stack
-`HTML` `CSS` `JavaScript`
+Real-time blood availability platform.
 
 <br>
+
+`HTML` `CSS` `JavaScript`
+
+<br><br>
 
 <a href="https://github.com/YAXH64/BloodLink">
 <img src="https://img.shields.io/badge/View_Project-DC143C?style=for-the-badge&logo=github&logoColor=white"/>
@@ -158,14 +170,15 @@ Real-time blood availability platform connecting donors and patients.
 
 <td width="25%" valign="top">
 
-## 🤖 AI Code Review
+## 🤖 AI Review
 
 RL-powered AI code review environment.
 
-### Stack
+<br>
+
 `Python` `RL` `LLMs`
 
-<br>
+<br><br>
 
 <a href="https://github.com/YAXH64/ai-code-review-openenv">
 <img src="https://img.shields.io/badge/View_Project-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
@@ -175,14 +188,15 @@ RL-powered AI code review environment.
 
 <td width="25%" valign="top">
 
-## 🌌 Portfolio Website
+## 🌌 Portfolio
 
-Cyberpunk portfolio with advanced animations.
-
-### Stack
-`React` `Three.js` `GSAP`
+Cyberpunk portfolio with animations.
 
 <br>
+
+`React` `Three.js` `GSAP`
+
+<br><br>
 
 <a href="https://yashyadavdev.vercel.app">
 <img src="https://img.shields.io/badge/Live_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -200,39 +214,13 @@ Cyberpunk portfolio with advanced animations.
 
 <div align="center">
 
-<table width="100%">
-<tr>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YAXH64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<td width="50%">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YAXH64&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=YAXH64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<br><br>
 
-</td>
-
-<td width="50%">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAXH64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<img width="100%" src="https://streak-stats.demolab.com?user=YAXH64&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</td>
-
-<td width="50%">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YAXH64&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</td>
-
-</tr>
-</table>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YAXH64&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -254,7 +242,7 @@ Cyberpunk portfolio with advanced animations.
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3152hgsrqadstx7sarq2jdgap2du&redirect=true">
 
-<img width="60%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=3152hgsrqadstx7sarq2jdgap2du&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark"/>
+<img width="45%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=3152hgsrqadstx7sarq2jdgap2du&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark"/>
 
 </a>
 
