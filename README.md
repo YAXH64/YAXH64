@@ -1,20 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f0c29,50:302b63,100:24243e&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f0c29,50:302b63,100:24243e&section=header"/>
 
-<div align="center" style="margin-top:-115px;">
+<div align="center" style="margin-top:-105px;">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=58&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=YASH+YADAV" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=72&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1200&height=100&lines=YASH+YADAV" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=%3E_+console.log(%22Building+the+future...%22);" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=1200&lines=%3E_+console.log(%22Building+the+future...%22);" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+•+AI+Enthusiast+•+Open+Source+Contributor;React+%2B+Next.js+%2B+AI;Building+Futuristic+Web+Experiences" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YAXH64&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer+•+AI+Enthusiast+•+Open+Source+Contributor;React+%2B+Next.js+%2B+AI;Building+Futuristic+Web+Experiences" />
 
 </div>
 
@@ -22,7 +18,11 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750192-d0e1c5b8-5f26-4d63-b2c2-5f6d1d0b7f5b.gif">
 
+---
+
 # > SYSTEM PROFILE
+
+<div align="center">
 
 <table width="100%">
 <tr>
@@ -51,9 +51,9 @@ Location:    Pune, India
 Education:   BTech CSE (2nd Year)
 
 Focus:
-  - Frontend Engineering
-  - Full Stack Development
-  - AI Applications
+  • Frontend Engineering
+  • Full Stack Development
+  • AI Applications
 
 Currently:
   Building cool things 🚀
@@ -68,59 +68,21 @@ Goal:
 </tr>
 </table>
 
+</div>
+
 ---
 
 # > TECH ARSENAL
 
 <div align="center">
 
-<table width="100%">
-
-<tr>
-
-<td width="50%" align="center">
-
-### FRONTEND
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,vite,nodejs,express,mongodb,firebase,python,fastapi,git,github,vscode,figma" />
 
 <br><br>
 
-### BACKEND
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,python,fastapi" />
-
-</td>
-
-<td width="50%" align="center">
-
-### AI / ML
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-<br><br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<br><br><br>
-
-### TOOLS
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
-</td>
-
-</tr>
-
-</table>
 
 </div>
 
@@ -288,19 +250,19 @@ Cyberpunk portfolio with animations.
 <div align="center">
 
 <a href="https://github.com/YAXH64">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/yashyadav-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:yashyadav1.dev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://yashyadavdev.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
