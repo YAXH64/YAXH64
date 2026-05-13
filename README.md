@@ -1,60 +1,330 @@
-# Hi 👋, I'm Yash Yadav  
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4FF&width=550&lines=Frontend+Developer+💻;Football+Lover+⚽;Tech+Explorer+🚀;BTech+CSE+Student+🎓)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0c29,50:302b63,100:24243e&text=%20&animation=fadeIn"/>
 
-💻 **Frontend Developer** | 🎓 **BTech CSE Student (2nd Year)**  
-⚡ Passionate about building clean, modern, and interactive **web apps**  
-🚀 Exploring **Full-Stack Development, Cloud, and AI**  
-🎯 Goal: Become independent, support my family, and contribute to tech  
-⚽ Fun fact: I love playing & watching **football**  
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=YASH+YADAV" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=%3E_+console.log(%22Building+the+future...%22);" />
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=500&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+•+AI+Enthusiast+•+Open+Source+Contributor;React+%2B+Next.js+%2B+AI;Building+Futuristic+Web+Experiences;Always+learning%2C+always+building..." />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YAXH64&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
+
+</div>
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750192-d0e1c5b8-5f26-4d63-b2c2-5f6d1d0b7f5b.gif">
+
+# > SYSTEM PROFILE
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+## 👋 Hey, I'm Yash Yadav
+
+```yaml
+> Full Stack Developer
+> AI + Frontend Engineer
+> Open Source Contributor
+> Building Futuristic Web Experiences
+> React + Next.js + AI
+> Always learning, always building...
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+```yaml
+Name:        Yash Yadav
+Role:        Full Stack Developer
+Location:    Pune, India
+Education:   BTech CSE (2nd Year)
+
+Focus:
+  - Frontend Engineering
+  - Full Stack Development
+  - AI Applications
+
+Currently:
+  Building cool things 🚀
+
+Goal:
+  Become financially independent
+  & contribute to impactful tech
+```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>  
+# > TECH ARSENAL
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="25%" align="center">
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,vite" />
+
+</td>
+
+<td width="25%" align="center">
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,python,fastapi" />
+
+</td>
+
+<td width="25%" align="center">
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</td>
+
+<td width="25%" align="center">
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🚀 Featured Projects  
-🔹 [**Portfolio Website**](https://yashyadavdev.vercel.app) – My personal portfolio showcasing skills & work  
-🔹 [**Quiz Application**](https://yaxh64.github.io/Quiz-Game/) – Interactive quiz game with scoring system  
-🔹 [**Weather App**](#) – Real-time weather updates using API  
-🔹 [**To-Do App**](#) – Task manager with local storage support  
+# > FEATURED PROJECTS
 
-👉 Check out more on my [repositories](https://github.com/yaxh64?tab=repositories).  
+<table width="100%">
+
+<tr>
+
+<td width="25%" valign="top">
+
+## 🧠 DeepSentry
+
+AI-powered deepfake detection system using Vision Transformers.
+
+### Stack
+`Python` `PyTorch` `FastAPI`
+
+<br>
+
+<a href="https://github.com/YAXH64/Deepsentry---Deepfake-Detector">
+<img src="https://img.shields.io/badge/View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="25%" valign="top">
+
+## 🩸 BloodLink
+
+Real-time blood availability platform connecting donors and patients.
+
+### Stack
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+<a href="https://github.com/YAXH64/BloodLink">
+<img src="https://img.shields.io/badge/View_Project-DC143C?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="25%" valign="top">
+
+## 🤖 AI Code Review
+
+RL-powered AI code review environment.
+
+### Stack
+`Python` `RL` `LLMs`
+
+<br>
+
+<a href="https://github.com/YAXH64/ai-code-review-openenv">
+<img src="https://img.shields.io/badge/View_Project-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="25%" valign="top">
+
+## 🌌 Portfolio Website
+
+Cyberpunk portfolio with advanced animations.
+
+### Stack
+`React` `Three.js` `GSAP`
+
+<br>
+
+<a href="https://yashyadavdev.vercel.app">
+<img src="https://img.shields.io/badge/Live_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaxh64&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaxh64&layout=compact&theme=tokyonight" height="165"/>
-</p>  
+# > GITHUB ANALYTICS
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yaxh64&theme=tokyonight&border_radius=10" alt="GitHub streak stats" />
-</p>  
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="50%">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=YAXH64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</td>
+
+<td width="50%">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAXH64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<img width="100%" src="https://streak-stats.demolab.com?user=YAXH64&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</td>
+
+<td width="50%">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YAXH64&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📫 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/yashyadav-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yashyadav1.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yashyadavdev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+# > CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YAXH64/YAXH64/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
 
 ---
 
-⭐️ From [Yash Yadav](https://github.com/yaxh64)
+# > SPOTIFY NOW PLAYING
+
+<div align="center">
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3152hgsrqadstx7sarq2jdgap2du&redirect=true">
+
+<img width="60%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=3152hgsrqadstx7sarq2jdgap2du&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark"/>
+
+</a>
+
+</div>
+
+---
+
+# > GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YAXH64&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# > CURRENTLY LEARNING
+
+```txt
+> Next.js App Router
+> AI Integrations
+> Full Stack Architecture
+> Cloud & Deployment
+> Advanced Animations
+> System Design Basics
+```
+
+---
+
+# > DEV PHILOSOPHY
+
+<div align="center">
+
+### ✨ "Code is craft. Design is intent. Together, they become experience."
+
+</div>
+
+---
+
+# > CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/YAXH64">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yashyadav-dev">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yashyadav1.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://yashyadavdev.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building the future, one commit at a time.
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:6a11cb,50:2575fc,100:00c6ff"/>
+
+</div>
