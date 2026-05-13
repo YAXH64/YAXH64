@@ -198,7 +198,7 @@ Cyberpunk portfolio with animations.
 
 ---
 
-# > SPOTIFY NOW PLAYING
+# > APPLE MUSIC NOW PLAYING
 
 <div align="center">
 
